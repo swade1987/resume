@@ -1,7 +1,7 @@
 
 # swade1987.github.io/resume
 
-[![Build Status](hhttps://travis-ci.org/swade1987/resume.svg?branch=master)](https://travis-ci.org/swade1987/resume)
+[![Build Status](https://travis-ci.org/swade1987/resume.svg?branch=master)](https://travis-ci.org/swade1987/resume)
 
 Personal homepage (curriculum vitae or resume) based on [João's](https://github.com/joaomoreno/resume).
 Vitae is built with [skeleton](http://getskeleton.com/), powered by [Jekyll](http://jekyllrb.com/) and freely
