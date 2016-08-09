@@ -1,0 +1,13 @@
+build :
+	docker-compose build
+
+run :
+	docker-compose up -d
+
+down :
+	docker-compose down
+
+rebuild :
+	docker-compose down
+	docker-compose build
+	docker-compose up -d
